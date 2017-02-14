@@ -1,0 +1,4 @@
+This is not what the line says
+But this is a practice
+Okay.
+Strikethrough could look like this [ST: word that's been struck through]?
