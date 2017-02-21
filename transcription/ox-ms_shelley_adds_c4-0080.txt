@@ -18,9 +18,3 @@
 18: [(************) sea & land]
 19: [[(***)] ****** a mead(?) of (***********)]
 20: [(******) on the [(***********)] memory(?)]
-
-KEY: 
-
-[text] = struck through and replaced by what follows
-(*****) = illegible
-text(?) = unsure transcription
