@@ -4,5 +4,26 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0080">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0080.jp2"/>
-    
+    <zone>
+		<line>In my <del rend="strikethrough">fresh</del> faint heart, I dare not [tell] speak</line>
+		<line>[The] My thoughts, but thus disturbed & weak</line>
+		<line>I sat and watched the (****) glide</line>
+		<line>Along the ocean bright & wide</line>
+		<line>[(*********) an element]</line>
+		<line>[(*********)]</line>
+		<line>(******) sprint(?) winged chariots (*****)</line>
+		<line>Oer some [(********)] (*******) element</line>
+		<line>In(?) ministrations strange & far(?) ;</line>
+		<line>As if in(?) some Elysian star</line>
+		<line>My [(*******) for (*********)] (******) for (******) & (******)</line>
+		<line>(*******) I meant(?) & (***********)</line>
+		<line>[I saw the dark rocket(?)]</line>
+		<line>[I watched the dark (******) f(******) & years(?)]</line>
+		<line>And the(?) wind but(?) (***) winged from(?) (*******)</line>
+		<line>From the (**********) flush(?) & night</line>
+		<line>[In (*******) that on the s(*******) sand]</line>
+		<line>[(************) sea & land]</line>
+		<line>[[(***)] ****** a mead(?) of (***********)]</line>
+		<line>[(******) on the [(***********)] memory(?)]</line>
+	</zone>
 </surface>
