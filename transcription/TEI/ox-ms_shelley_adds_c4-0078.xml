@@ -6,5 +6,15 @@
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0078.jp2"/>
     <zone type="main">
         <line>Notte e giorno a faticar</line>
+        <line rend="indent1">Per chi nulla sa gradir</line>
+        <line rend="indent2">Piova e vento sopportar</line>
+        <line rend="indent3">Mangiar male e mal dormir</line>
+        <line rend="indent4">Voglio fare il gentiluomo</line>
+        <line rend="indent5">E non voglio più servir</line>
+        <line rend="indent6">O che caro galantuomo</line>
+        <line rend="indent7">Vuol star dentro colla bella</line>
+        <line rend="indent8">Ed io far la sentinella</line>
+        <line rend="indent9">Voglio fare il gentiluomo</line>
+        <line rend="indent10">E non voglio più servir</line>        
     </zone>
 </surface>
